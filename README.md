@@ -1,5 +1,5 @@
-## RickRoll
-# Execution:
+# RickRoll
+## Execution:
 ```bash
 cd rickroll
 pip install pyinstaller
